@@ -1,0 +1,22 @@
+[
+    {
+        "href": "index.html",
+        "linkName": "Home"
+    },
+    {
+        "href": "products.html",
+        "linkName": "Products"
+    },
+    {
+        "href": "contact.html",
+        "linkName": "Contact"
+    },
+    {
+        "href": "author.html",
+        "linkName": "Author"
+    },
+    {
+        "href": "documentation.pdf",
+        "linkName": "Documentation"
+    }
+]

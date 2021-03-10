@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Fantasy"
+    },
+    {
+        "id": 2,
+        "name": "Popular science"
+    },
+    {
+        "id": 3,
+        "name": "Travel"
+    },
+    {
+        "id": 4,
+        "name": "Fiction"
+    },
+    {
+        "id": 6,
+        "name": "Popular psihology"
+    }
+]

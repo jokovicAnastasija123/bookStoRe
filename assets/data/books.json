@@ -1,0 +1,278 @@
+[
+    {
+        "id": 1,
+        "name": "The cyberiad",
+        "description": "One of the world's most beloved science fiction writers, Stanislaw Lem was famed for his wryly comic, outlandish imaginings of the relationship between humans and technology. In this playful cosmic fantasia, two 'constructors' compete to dream up ever-more ingenious inventions in a universe beyond reality.",
+        "author": 1,
+        "publisher": 1,
+        "image": {
+            "src": "assets/img/cyberiad.jpg",
+            "alt": "The cyberiad"
+        },
+        "thumbnail": {
+            "src": "assets/img/cyberiad-thumbnail.jpg",
+            "alt": "The cyberiad"
+        },
+        "price": {
+            "old": 15.99,
+            "new": 13.99
+        },
+        "category": 1,
+        "freeShipping": true,
+        "specialOffer": false,
+        "new": true
+    },
+    {
+        "id": 2,
+        "name": "Night vision",
+        "description": "The world is a different place after dark, and this magnificent photography book illuminates the mesmerizing realm of all things nocturnal. After dark, the light is different; there is an unspoken intimacy; new and different activities occur and in the natural world, an unseen universe comes alive.",
+        "author": 2,
+        "publisher": 2,
+        "image": {
+            "src": "assets/img/night-vision.jpg",
+            "alt": "Night vision"
+        },
+        "thumbnail": {
+            "src": "assets/img/night-vision-thumbnail.jpg",
+            "alt": "Night vision"
+        },
+        "price": {
+            "old": 30.99,
+            "new": 22.99
+        },
+        "category": 2,
+        "freeShipping": true,
+        "specialOffer": true,
+        "new": true
+    },
+    {
+        "id": 3,
+        "name": "The science of animals",
+        "description": "With spectacular, studio-quality photography and clear explanations, this book reveals the incredible anatomy, behaviour, and beauty of every type of creature. This elegant introduction to zoology offers interesting views, angles, and close-ups that show you animals in surprising detail. The unique nose-to-tail approach, allows you to focus in on the beauty of the antenna of a moth, the flight feathers of a parrot, or the feeding tentacles of a jellyfish. ",
+        "author": 3,
+        "publisher": 3,
+        "image": {
+            "src": "assets/img/science-of-animals.jpg",
+            "alt": "The science of animals"
+        },
+        "thumbnail": {
+            "src": "assets/img/science-of-animals-thumbnail.jpg",
+            "alt": "The science of animals"
+        },
+        "price": {
+            "old": 32.99,
+            "new": 28.99
+        },
+        "category": 2,
+        "freeShipping": false,
+        "specialOffer": false,
+        "new": true
+    },
+    {
+        "id": 4,
+        "name": "Journey",
+        "description": "Journeys have arisen from all manner of impulse, from migration and the search for food, to pilgrimages, trade, scientific curiosity, or simply the quest for adventure. Packed with stories of human movement and endeavour, Journey lets you experience the excitement and romance of travel, covering everything from quests across the Silk Road and the adventures of Marco Polo to explorations in space and underwater. ",
+        "author": 3,
+        "publisher": 3,
+        "image": {
+            "src": "assets/img/journey.jpg",
+            "alt": "Journey"
+        },
+        "thumbnail": {
+            "src": "assets/img/journey-thumbnail.jpg",
+            "alt": "Journey"
+        },
+        "price": {
+            "old": 19.99,
+            "new": 17.99
+        },
+        "category": 3,
+        "freeShipping": false,
+        "specialOffer": false,
+        "new": true
+    },
+    {
+        "id": 5,
+        "name": "City of girls",
+        "description": "New York, 1940. Young, glamorous and inseparable, Vivian and Celia are chasing trouble from one end of the city to the other. But there is risk in all this play - that's what makes it so fun, and so dangerous. Sometimes, the world may feel like it's ending, but for Vivian and Celia, life is just beginning.",
+        "author": 4,
+        "publisher": 4,
+        "image": {
+            "src": "assets/img/city-of-girls.jpg",
+            "alt": "City of girls"
+        },
+        "thumbnail": {
+            "src": "assets/img/city-of-girls-thumbnail.jpg",
+            "alt": "City of girls"
+        },
+        "price": {
+            "old": 18.99,
+            "new": 12.99
+        },
+        "category": 3,
+        "freeShipping": true,
+        "specialOffer": true,
+        "new": false
+    },
+    {
+        "id": 6,
+        "name": "Earth from space",
+        "description": "With over 200 spectacular images, Earth from Space reveals our planet as you’ve never seen it before. For decades we competed to be the first to reach space, but it was when we looked back at Earth that we were truly awestruck. Now we can show the earth’s surface, its mega structures, weather patterns and natural wonders in breathtaking detail. Earth from Space sheds new light on the planet we call home.",
+        "author": 5,
+        "publisher": 5,
+        "image": {
+            "src": "assets/img/earth-from-space.jpg",
+            "alt": "Earth from space"
+        },
+        "thumbnail": {
+            "src": "assets/img/earth-from-space-thumbnail.jpg",
+            "alt": "Earth from space"
+        },
+        "price": {
+            "old": 35.99,
+            "new": 25.99
+        },
+        "category": 2,
+        "freeShipping": false,
+        "specialOffer": true,
+        "new": false
+    },
+    {
+        "id": 7,
+        "name": "Create winning agreements",
+        "description": "Negotiation doesn’t have to be a fight to get what you want at the expense of the other side. In fact, you’ll create better deals and better relationships through collaboration. Gavin Presman’s ethical and mutually-beneficial approach shows you how to prepare for and engage in every negotiation – whether you’re drawing up a contract with a client, buying a house or settling family disagreements.",
+        "author": 6,
+        "publisher": 6,
+        "image": {
+            "src": "assets/img/winning-agreements.jpg",
+            "alt": "Create winning agreements"
+        },
+        "thumbnail": {
+            "src": "assets/img/winning-agreements-thumbnail.jpg",
+            "alt": "Create winning agreements"
+        },
+        "price": {
+            "old": 25.99,
+            "new": 16.99
+        },
+        "category": 6,
+        "freeShipping": true,
+        "specialOffer": true,
+        "new": false
+    },
+    {
+        "id": 8,
+        "name": "Genius inventions",
+        "description": "Inventors Who Changed the World gives readers an unprecedented insight into the minds and lives of some of the people who have shaped the modern world. Discover the inspiration of some of the most important moments in the history of technology. As an invention is rarely the brainchild of a single person, Challoner also includes timelines that explain the development of an invention",
+        "author": 7,
+        "publisher": 7,
+        "image": {
+            "src": "assets/img/genius-inventions.jpg",
+            "alt": "Genius inventions"
+        },
+        "thumbnail": {
+            "src": "assets/img/genius-inventions-thumbnail.jpg",
+            "alt": "Genius inventions"
+        },
+        "price": {
+            "old": 35.99,
+            "new": 28.99
+        },
+        "category": 6,
+        "freeShipping": true,
+        "specialOffer": true,
+        "new": false
+    },
+    {
+        "id": 9,
+        "name": "How science works",
+        "description": "Answering all your scientific questions How Science Works explains science facts throughout amazing diagrams and infographics. Unlock the secrets of the universe. Learn how to explain the mind-boggling concepts that eluded you at school, all the way through to more recent fascinating topics such as the discovery of the Higgs Boson.",
+        "author": 3,
+        "publisher": 3,
+        "image": {
+            "src": "assets/img/how-science-works.jpg",
+            "alt": "How science works"
+        },
+        "thumbnail": {
+            "src": "assets/img/how-science-works-thumbnail.jpg",
+            "alt": "How science works"
+        },
+        "price": {
+            "old": 20.99,
+            "new": 18.99
+        },
+        "category": 2,
+        "freeShipping": false,
+        "specialOffer": false,
+        "new": false
+    },
+    {
+        "id": 10,
+        "name": "Forest mage",
+        "description": "The second book in The Soldier Son Trilogy, from the author of the bestselling Farseer, Liveship Traders and Tawny Man trilogies. The King's Cavalla Academy has been ravaged by the Speck plague. As the infirmary empties, Cadet Nevare Burvelle also prepares to journey home. Far from being a broken man, Nevare is hale and hearty after defeating his nemesis, Tree Woman, and freeing himself of the Speck magic that infected him and attempted to turn him against his own people. ",
+        "author": 8,
+        "publisher": 8,
+        "image": {
+            "src": "assets/img/forest-mage.jpg",
+            "alt": "Forest mage"
+        },
+        "thumbnail": {
+            "src": "assets/img/forest-mage-thumbnail.jpg",
+            "alt": "Forest mage"
+        },
+        "price": {
+            "old": 19.99,
+            "new": 14.99
+        },
+        "category": 4,
+        "freeShipping": true,
+        "specialOffer": false,
+        "new": false
+    },
+    {
+        "id": 11,
+        "name": "Renegades magic",
+        "description": "The people of Gettys town believe their cemetery soldier, Nevare Burve, guilty of unspeakable crimes. They also recall beating him to death. But Nevare didn't die that day. A power far more intractable than an angry mob seized control of his life and swept him away. The magic of the Speck people has claimed Nevare, and is shaping him into a weapon to halt the Gernian expansion into Speck lands.  As his efforts to find a peaceful solution fail, Nevare realizes he can no longer suppress his ruthless Speck self, Soldier's Boy. ",
+        "author": 8,
+        "publisher": 8,
+        "image": {
+            "src": "assets/img/renegades-magic.jpg",
+            "alt": "Renegades magic"
+        },
+        "thumbnail": {
+            "src": "assets/img/renegades-magic-thumbnail.jpg",
+            "alt": "Renegades magic"
+        },
+        "price": {
+            "old": false,
+            "new": 25.99
+        },
+        "category": 4,
+        "freeShipping": false,
+        "specialOffer": false,
+        "new": false
+    },
+    {
+        "id": 12,
+        "name": "Dark water",
+        "description": "A selection of deliciously spooky short stories from the Japanese master of suspense. The first story in the collection has been filmed as DARK WATER. Suzuki demonstrates the power of his psychological insight into the mechanics of fear in this highly atmospheric collection of stories unified by the theme of water. Yoshimi Matsubara lives with her five-year-old daughter Ikuko in a depressing and damp apartment block on reclaimed land in Tokyo Bay.",
+        "author": 9,
+        "publisher": 8,
+        "image": {
+            "src": "assets/img/dark-water.jpg",
+            "alt": "Dark water"
+        },
+        "thumbnail": {
+            "src": "assets/img/dark-water-thumbnail.jpg",
+            "alt": "Dark water"
+        },
+        "price": {
+            "old": false,
+            "new": 23.99
+        },
+        "category": 1,
+        "freeShipping": true,
+        "specialOffer": true,
+        "new": false
+    }
+]

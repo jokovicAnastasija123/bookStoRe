@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Stanislaw Lem"
+    },
+    {
+        "id": 2,
+        "name": "National Geographic"
+    },
+    {
+        "id": 3,
+        "name": "DK"
+    },
+    {
+        "id": 4,
+        "name": "Elizabeth Gilbert"
+    },
+    {
+        "id": 5,
+        "name": "Michael Bright"
+    },
+    {
+        "id": 6,
+        "name": "Gavin Presman"
+    },
+    {
+        "id": 7,
+        "name": "Jack Challoner"
+    },
+    {
+        "id": 8,
+        "name": "Robin Hobb"
+    },
+    {
+        "id": 9,
+        "name": "Koji Suzuki"
+    }
+]

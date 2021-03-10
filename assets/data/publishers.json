@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Penguin"
+    },
+    {
+        "id": 2,
+        "name": "National Geographic"
+    },
+    {
+        "id": 3,
+        "name": "DK"
+    },
+    {
+        "id": 4,
+        "name": "Bloomsbery"
+    },
+    {
+        "id": 5,
+        "name": "BBC"
+    },
+    {
+        "id": 6,
+        "name": "ICON"
+    },
+    {
+        "id": 7,
+        "name": "Carlton Books"
+    },
+    {
+        "id": 8,
+        "name": "Harpercollins"  
+    }
+]
